@@ -42,7 +42,7 @@ toolchains = {
     "windows_amd64": {
         "os": "windows",
         "arch": "amd64",
-        "sha": "3d0c41c514841ef38645acdefe3f70f8376e7d8de55828c50087083bd34e9c20",
+        "sha": "c009e9598c450bc8445c452e1f6ded2d0caa70928818850dfd4bfa4877eea810",
         "exec_compatible_with": [
             "@platforms//os:windows",
             "@platforms//cpu:x86_64",
